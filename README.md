@@ -9,21 +9,30 @@ The purpose of this analysis is to look at the two data sets Maria provided for 
 
 ## Results
 o	How is the district summary affected?
+After turing the removing the 9th graders from Thomas High School into null data there was not much of a change in the average or passing grades for math or reading as shown below. This means that not enough students's scores were dropped from the data to make a difference in the entire district.
+Original
 <img width="918" alt="original district summary" src="https://user-images.githubusercontent.com/107590196/178883253-baca3f56-9ed9-4aea-8ccf-f46c9d8c1e61.png">
 
+New 
 <img width="911" alt="new district summary" src="https://user-images.githubusercontent.com/107590196/178883238-e1dde287-221e-4311-b627-516232ec0943.png">
 
 o	How is the school summary affected?
+The summary for the Thomas High School did take a hit the passing percentages. The averages remained pretty steady since since we changed how many students we were counting in the equation. When we look at the passing grades, it is pretty obvious that removing the 9th grade students framatically brought the passing score percent from the 90's to the 60's bringing the overall passing score from 90.1 to 65. This helps the school board confirm that the 9th grade class skewed the scores for these subject at Thomas High.
 
+Original
 <img width="992" alt="original school summary" src="https://user-images.githubusercontent.com/107590196/178885931-ea180b86-8181-437e-9e0a-f7d716eac100.png">
 
-
+New
 <img width="989" alt="new school summary" src="https://user-images.githubusercontent.com/107590196/178885568-377b95b3-fbc2-4c5e-bd12-eabdc406c656.png">
 
 o	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+Replacing the 9th graders' scores took THomas Highschool from being the 2nd leading school in the district to 8th school in the district.
+
+New
 <img width="988" alt="Top Schools original" src="https://user-images.githubusercontent.com/107590196/178886234-d375cda9-2bed-4794-bccb-717ac4df235b.png">
 
+Original
 <img width="1002" alt="All Schools new" src="https://user-images.githubusercontent.com/107590196/178886250-707dfdf4-9bee-41ba-9c4d-8abe50bab078.png">
 
 o	How does replacing the ninth-grade scores affect the following:
